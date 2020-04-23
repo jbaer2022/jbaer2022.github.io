@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jbaer2022.github.io/static/css/main.7a0e6566.chunk.css",
+    "main.js": "/jbaer2022.github.io/static/js/main.337ac71f.chunk.js",
+    "main.js.map": "/jbaer2022.github.io/static/js/main.337ac71f.chunk.js.map",
+    "runtime-main.js": "/jbaer2022.github.io/static/js/runtime-main.2630158c.js",
+    "runtime-main.js.map": "/jbaer2022.github.io/static/js/runtime-main.2630158c.js.map",
+    "static/js/2.de755598.chunk.js": "/jbaer2022.github.io/static/js/2.de755598.chunk.js",
+    "static/js/2.de755598.chunk.js.map": "/jbaer2022.github.io/static/js/2.de755598.chunk.js.map",
+    "index.html": "/jbaer2022.github.io/index.html",
+    "precache-manifest.52f7836a4f9f26519e26830e601b3ff0.js": "/jbaer2022.github.io/precache-manifest.52f7836a4f9f26519e26830e601b3ff0.js",
+    "service-worker.js": "/jbaer2022.github.io/service-worker.js",
+    "static/css/main.7a0e6566.chunk.css.map": "/jbaer2022.github.io/static/css/main.7a0e6566.chunk.css.map",
+    "static/js/2.de755598.chunk.js.LICENSE.txt": "/jbaer2022.github.io/static/js/2.de755598.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2630158c.js",
+    "static/js/2.de755598.chunk.js",
+    "static/css/main.7a0e6566.chunk.css",
+    "static/js/main.337ac71f.chunk.js"
+  ]
+}
